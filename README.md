@@ -14,8 +14,9 @@ A deep learning project implementing Transfer Learning with **EfficientNet-B0** 
 
 ## 🛠️ Code Implementation
 
-### 1. Model Setup
+
 ```python
+### 1. Model Setup
 import torch
 import torchvision.models
 import torch.nn as nn
